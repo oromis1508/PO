@@ -1,0 +1,8 @@
+{
+    "timeouts": {
+        "pageLoad": 30000,
+        "implicit": 10000,
+        "pageLoadDelay": 500
+    },
+    "isMaximize": true
+}
